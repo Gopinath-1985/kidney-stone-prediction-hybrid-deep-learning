@@ -39,3 +39,20 @@ This is an academic research project, not a clinically validated diagnostic syst
 **Gopinath S**  
 Department of Biotechnology  
 KIT – Kalaignar Karunanidhi Institute of Technology, Coimbatore
+
+## Project Architecture
+
+The project explores a hybrid deep learning workflow for kidney stone image classification.
+
+1. **Input:** Kidney images
+2. **Preprocessing:** Prepare images for model input
+3. **CNN Model:** Extract spatial image features
+4. **Vision Transformer (ViT):** Learn image representations using attention
+5. **Hybrid Ensemble:** Combine model predictions
+6. **Evaluation:** Assess performance using test-set predictions
+
+## Future Improvements
+
+- Validate the workflow on an independent test set.
+- Report accuracy, precision, recall, and F1-score from actual predictions.
+- Add model architecture diagrams and reproducible evaluation results.
