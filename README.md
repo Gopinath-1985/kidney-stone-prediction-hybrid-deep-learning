@@ -20,6 +20,12 @@ This academic project explores kidney stone image classification using Convoluti
 ## Project Notebook
 The Jupyter Notebook contains the project workflow, including data preparation, model training, and evaluation.
 
+### Open in Google Colab
+[Open Project Notebook in Google Colab](https://colab.research.google.com/drive/1PKuoDvEESw7aYhg3R1UHbsksA8LyVSwV?usp=sharing)
+
+### Research Paper
+[View Research Paper (DOCX)](Team%202%20IEEE%20PAPER.docx)
+
 ## Dataset
 Dataset source and usage details should be documented here. Please check the dataset license before sharing any dataset files.
 
